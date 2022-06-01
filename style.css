@@ -128,7 +128,7 @@ body {
   .icon-container img {
     position: absolute;
     bottom: 0px;
-    right: 0px;
+    right: 10%;
     height: 35%;
     width: auto;
 
